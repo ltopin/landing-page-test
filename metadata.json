@@ -1,0 +1,6 @@
+{
+  "name": "Sim⁴ Med Ed - Simulação Clínica Integral",
+  "description": "A infraestrutura definitiva de Simulação Médica & Avaliação Prática para o ensino superior de saúde.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
